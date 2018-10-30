@@ -1,0 +1,152 @@
+.navbar-brand {
+   background-color: rgb(16, 212, 212);
+}
+
+.page-header { 
+    
+ color: rgb(16, 212, 212) ;
+ font-size: 38px;
+}
+
+#bio-image {
+
+    float: left;
+    width: 350px;
+    margin-right: 3% ;
+}
+
+#bio-word {
+    line-height: 250%;
+    font-size: 15px;
+
+}
+
+
+
+
+#bio-image1 { 
+    float: right;
+    width: 200px;
+    height: 150px;
+    padding: 5px;
+    
+
+}
+
+
+
+.page-headerr {  
+    display: inline-block;
+    color: rgb(16, 212, 212);
+        font-size: 29px;
+        padding-bottom: 9px;
+        margin: 40px 0 20px;
+        border-bottom: 1px solid #eee ;
+ }
+
+ #bio-image2 { 
+    float: right;
+    width: 200px;
+    height: 150px;
+    padding: 5px;
+}
+
+
+#bio-image3 { 
+    float: right;
+    width: 200px;
+    height: 150px;
+    padding: 5px;
+}
+
+#bio-image4 { 
+    float: right;
+    width: 200px;
+    height: 150px;
+    padding: 5px;
+}
+
+#compar1{
+
+    width: 500px;
+    height: 350px;
+}
+
+
+#compar2{
+
+    width: 500px;
+    height: 350px;
+}
+
+#compar3{
+
+    width: 500px;
+    height: 350px;
+}
+
+#compar4{
+
+    width: 500px;
+    height: 350px;
+}
+
+.bio-image5 { 
+    float: right;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+}
+
+
+.bio-image6 { 
+    float: right;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+}
+
+
+
+.bio-image7 { 
+    float: right;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+}
+
+
+.bio-image8 { 
+    float: right;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+}
+
+
+.col-md-6 {
+
+        margin-right: 0%;
+        border-style: ridge;
+        border-width: 1px;
+        box-sizing: border-box;
+}
+
+
+@media (max-width: col-md-4) {
+   
+       
+    
+
+#page-summaryy {
+display : none;
+    
+    
+  } 
+
+.col-md-2 {
+
+    border-radius: 10%;
+    color: red;
+}
+}
