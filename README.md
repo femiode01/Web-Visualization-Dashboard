@@ -33,4 +33,3 @@ The website must, at the top of every page, have a navigation menu that:
 
 Finally, the website must be deployed to GitHub pages.
 
-When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
